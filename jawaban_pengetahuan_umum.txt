@@ -1,0 +1,27 @@
+Tugas Pertama - Pengetahuan Umum
+1) Apa yang kamu ketahui tentang Version Control, (gunakan bahasa sendiri)
+2) Jelaskan apa itu GIT
+3) Apa yang kamu ketahui tentang Framework khususnya Web Framework, sebutkan apa saja
+web framework yang kamu ketahui (gunakan bahasa sendiri)
+4) Jelaskan istilah - istilah berikut: REST API, SQL, HTTP, UI Framework (gunakan bahasa
+sendiri)
+
+Jawaban Pertama - Pengetahuan Umum
+1) Version Control adalah sebuah sistem yang mencatat setiap perubahan. 
+   Misal, dengan Version Control coder akan sangan mudah untuk berpindah dari revisi 1 ke revisi lainnya.
+2) GIT adalah salah satu dari beberapa Version Control System. Manfaat GIT pun kurang lebih sama dengan Version Control 
+   yaitu mengetahui setiap perubahan source code, dari pada harus membuat file baru setiap ada revisi (misalnya).
+   Salah satu nilai plus GIT adalah dengan menggunakan GIT coder tidak perlu khawatir code nya bentrok, karean kita bisa
+   membuat branch untuk workspace nya.
+3) Web Framework adalah sebuah software framework yang memudahkan kita untuk membangun sebuah aplikasi atau web.
+   Gampang nya nih, misal kita punya Sawah dan mau kita bajak tanahnya. Kalo kita mau bajak sawah itu lebih mudah dan cepat maka harus
+   menggunakan alat pertanian modern ketimbang yang masih manual (pacul, misalanya). Begitu juga dg Aplikasi / Web jika ingin membangun dengan
+   lebih mudah dan cepat maka Framework ini akan sangat membantu.
+   1. PHP : Laravel, CodeIgniter, Yii, Symfoni
+   2. JavaScript : Express Js, Vue JS, React Js, Nuxt JS, Angular JS,  Next Js
+   3. Phtyon : Django, 
+4) REST API yaitu state transfer API. Dengan bantuan protokol HTTP untuk berkomunikasi data. Biasanya responnya bentuknya JSON/XML.
+   SQL yaitu sebuah bahasa pemrograman khusus untuk memanajemen data. Gampangnya bahasanya database.
+   HTTP yaitu sebuah protokol aplikasi untuk sistem informasi, dan dasar untuk berkomunikasi data berbentuk teks, menggunakan link.
+   UI Framework memudahkan dan mempercepat proses mendesain sebuah website dan membuat pengguna dapat berinteraksi dg mudah 
+   dengan mesin yg dikelolany, tanpa harus menuliskan perintah teks (Command Prompt, misalany)
